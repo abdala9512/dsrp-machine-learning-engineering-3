@@ -1,0 +1,14 @@
+[project]
+name = "dsrp-machine-learning-engineering-3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.10"
+dependencies = [
+    "jupyterlab>=4.4.7",
+    "matplotlib>=3.10.6",
+    "mlflow>=3.4.0",
+    "pandas>=2.3.2",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+]
